@@ -1,4 +1,4 @@
-package day7.jdk7.calendar;
+package javase_progressive.day7.jdk7.calendar;
 
 import java.util.Calendar;
 
